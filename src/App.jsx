@@ -72,9 +72,6 @@ const App = () => {
        <button onClick={deleteHandler} className='bg-gray-600 w-full cursor-pointer active:scale-95 text-xs rounded-full mb-4'>Delete Note</button>
       </div>
        })}
-
-           
-
       </div>
      </div>
     </div>
